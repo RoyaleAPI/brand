@@ -1,2 +1,3 @@
-# brand
-Brand assets for https://royaleapi.com
+# RoyaleAPI Brand
+
+[https://brand.royaleapi.com](https://brand.royaleapi.com)

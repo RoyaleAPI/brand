@@ -5,4 +5,4 @@
     - [Color](/guide/color)
     - [Typography](/guide/typography)
 - Legal
-    - [Terms](/guide/terms)
+    - [Terms](/legal/terms)

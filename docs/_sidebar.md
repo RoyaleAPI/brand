@@ -1,0 +1,6 @@
+- Getting Started
+    - [Introduction](/)
+- Elements
+    - [Logo](/guide/logo)
+    - [Color](/guide/color)
+    - [Typography](/guide/typography)

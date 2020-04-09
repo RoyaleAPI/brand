@@ -1,4 +1,4 @@
-# RoyaleAPI Brand Guide
+# Introduction
 
 > RoyaleAPI is the definitive source about decks, players and teams in Clash Royale. Explore advanced statistics about decks and cards based on millions of games per week.
 

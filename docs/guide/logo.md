@@ -6,4 +6,4 @@
 
 <img class="logo dark" src="/assets/logo/royaleapi-bg-dark.png?2">
 
-- [/assets/logo/royaleapi-bg-dark.png](/assets/logo/royaleapi-bg-dark.png)
+- [/assets/logo/royaleapi-bg-dark.png](/assets/logo/royaleapi-bg-dark.png?2)

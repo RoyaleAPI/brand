@@ -1,0 +1,27 @@
+{
+  "name": "ra-brand",
+  "version": "1.0.0",
+  "description": "[https://brand.royaleapi.com](https://brand.royaleapi.com)",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "grunt": "^1.1.0",
+    "grunt-cache-bust": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyaleAPI/brand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoyaleAPI/brand/issues"
+  },
+  "homepage": "https://github.com/RoyaleAPI/brand#readme"
+}

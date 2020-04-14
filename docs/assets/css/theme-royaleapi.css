@@ -5,15 +5,20 @@
     --theme-hue: 206;
 }
 
+.logo_container {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.05);
+    background-image: url(/assets/img/bg-trans-tile.png);
+    background-repeat: repeat;
+}
+
 img {
     width: 100%;
     height: auto;
 }
 
-img.logo {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    background-color: rgba(0, 0, 0, 0.05);
-}
+
+
 
 img.logo.dark {
 

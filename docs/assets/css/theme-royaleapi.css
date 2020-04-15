@@ -31,3 +31,10 @@ img.logo.dark {
 .color_value {
     word-spacing: 4px;
 }
+
+@media (max-width: 30em) {
+
+    .markdown-section .table-wrapper td {
+        padding-left: 0;
+    }
+}

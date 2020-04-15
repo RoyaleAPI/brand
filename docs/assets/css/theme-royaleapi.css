@@ -27,3 +27,7 @@ img.logo.dark {
     height: 50px !important;
     border-radius: 5rem;
 }
+
+.color_value {
+    word-spacing: 4px;
+}

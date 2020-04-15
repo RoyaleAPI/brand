@@ -2,6 +2,7 @@
     - [Introduction](/)
 - Elements
     - [Logo](/guide/logo)
+    - [Sub Brand](/guide/subbrands)
     - [Color](/guide/color)
     - [Typography](/guide/typography)
 - Legal

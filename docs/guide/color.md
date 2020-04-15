@@ -1,5 +1,8 @@
  # Color
  
+ - Use RGB values for web / screen (sRGB color space)
+ - Use Pantone values for print only. Do not use the RGB equivalent Pantone values for web. If in doubt, always use the RGB values.
+ 
  ## RoyaleAPI Blue
  
  <div class="color_chip" style="background-color:rgb(43,115,255);"></div>

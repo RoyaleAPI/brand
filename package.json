@@ -1,27 +1,21 @@
 {
-  "name": "ra-brand",
-  "version": "1.0.0",
-  "description": "[https://brand.royaleapi.com](https://brand.royaleapi.com)",
-  "main": "Gruntfile.js",
-  "directories": {
-    "doc": "docs"
+  "name": "royaleapi-brand",
+  "version": "0.0.1",
+  "description": "Branding guidelines for RoyaleAPI",
+  "main": "index.js",
+  "authors": {
+    "name": "SML",
+    "email": "sml@royaleapi.com"
   },
-  "dependencies": {
-    "grunt": "^1.1.0",
-    "grunt-cache-bust": "^1.7.0"
-  },
-  "devDependencies": {},
+  "repository": "https://github.com/smlbiobot/royaleapi-brand/RoyaleAPI Brand",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RoyaleAPI/brand.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RoyaleAPI/brand/issues"
-  },
-  "homepage": "https://github.com/RoyaleAPI/brand#readme"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.3.1",
+    "@vuepress/plugin-back-to-top": "^1.3.1",
+    "@vuepress/plugin-medium-zoom": "^1.3.1"
+  }
 }

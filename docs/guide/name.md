@@ -2,14 +2,20 @@
 
 The preferred spelling and casing for RoyaleAPI is `RoyaleAPI`
 
-## One word
+## Single word
 
-Spell RoyaleAPI as a single word. The only exception is for use with services that does not support business entities and expect names in the form of `first name` and `last name`. In this rare instance, you may separate the two words. Otherwise, in public communication where there are no specific requirements, a single word should be used.
+Spell RoyaleAPI as a single word, without space. 
 
 | | |
 | -- | -- | 
 | ✅ | `RoyaleAPI` |
 | ❌ | `Royale API` |
+
+In rare instances where a service requires a first and last name and will not accept a single word as the name of the account, you may use `Royale` as first name and `API` as last name. 
+
+Otherwise, in public communication where there are no specific requirements, a single word should be used. 
+
+
 
 ## Mix case
 

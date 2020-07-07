@@ -15,10 +15,14 @@ footer: Made by RoyaleAPI with ❤️
 ---
 # Introduction
 
-> RoyaleAPI is the definitive source about decks, players and teams in Clash Royale. Explore advanced statistics about decks and cards based on millions of games per week.
+> Trusted by the pros, the ultimate destination for all things Clash Royale.
+
+
+
 
 This online style guide provides information on how to use our brand properly. These guidelines cover these elements:
 
+- [Name](/guide/name)
 - [Logo](/guide/logo)
 - [Color](/guide/color)
 - [Typography](/guide/typography)

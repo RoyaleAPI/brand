@@ -17,9 +17,9 @@ Otherwise, in public communication where there are no specific requirements, a s
 
 
 
-## Mix case
+## Casing
 
-Capitalize the first word of `Royale` and also each letter of `API`
+Capitalize the first character of `Royale` and also each letter of `API`.
 
 | | |
 | -- | -- | 

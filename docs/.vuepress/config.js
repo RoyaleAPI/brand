@@ -97,12 +97,7 @@ module.exports = {
         editLinkText: '',
         lastUpdated: false,
         logo: '/img/royaleapi-logo.png',
-        nav: [
-            {
-                text: 'Site',
-                link: 'https://royaleapi.com',
-            },
-        ],
+        nav: require('./nav/en.js'),
         sidebar: [
             {
                 title: 'Introduction',
@@ -117,6 +112,13 @@ module.exports = {
                     '/guide/subbrands',
                     '/guide/color',
                     '/guide/typography',
+                ]
+            },
+            {
+                title: 'Examples',
+                collapsable: false,
+                children: [
+                    '/examples/season',
                 ]
             },
             {
@@ -139,6 +141,18 @@ module.exports = {
             {
                 type: 'quote',
                 defaultTitle: '',
+            },
+        ],
+        [
+            '@vuepress/plugin-google-analytics',
+            {
+                'ga': 'UA-100687612-15' // UA-00000000-0
+            },
+        ],
+        [
+            'sitemap',
+            {
+                hostname: 'https://brand.royaleapi.com'
             },
         ],
     ]

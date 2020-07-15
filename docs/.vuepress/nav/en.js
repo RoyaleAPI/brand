@@ -85,6 +85,5 @@ module.exports = [
                 ]
             }
         ]
-
     },
 ]

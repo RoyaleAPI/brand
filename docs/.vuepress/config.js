@@ -25,7 +25,7 @@ module.exports = {
         }],
         ['link', {
             rel: 'icon',
-            href: 'https://help.royaleapi.com/img/favicon.ico',
+            href: 'https://brand.royaleapi.com/img/favicon.ico',
         }],
         ['meta', {
             'http-equiv': 'Cache-Control',

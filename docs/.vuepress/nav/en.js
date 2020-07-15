@@ -71,16 +71,16 @@ module.exports = [
                         link: 'https://instagram.com/RoyaleAPI_Official',
                     },
                     {
-                        text: 'YouTube',
-                        link: 'https://youtube.com/RoyaleAPI',
-                    },
-                    {
                         text: 'Reddit',
                         link: 'https://reddit.com/r/RoyaleAPI',
                     },
                     {
                         text: 'Github',
                         link: 'https://github.com/RoyaleAPI',
+                    },
+                    {
+                        text: 'YouTube',
+                        link: 'https://youtube.com/RoyaleAPI',
                     },
                 ]
             }

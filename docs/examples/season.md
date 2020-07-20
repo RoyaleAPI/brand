@@ -2,8 +2,6 @@
 
 Here are some examples of how the different elements are used together. Most of these are social marketing materials, and so they have a 16:9 aspect ratio.
 
-We use **Source Hans Pro** for Japanese text.
-
 You can find more of these on [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI)
 
 ## Season 11

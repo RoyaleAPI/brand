@@ -26,18 +26,36 @@
 
 ## Mark with Type: Vertical
 
-<div class="trans_container">
-
-![Logo](/logo/royaleapi-sq-logotype-w.png)
-
-</div>
-
-- [royaleapi-sq-logotype-w.png](/logo/royaleapi-sq-logotype-w.png?9be51c7cabdc346b)
+### Black Text
 
 <div class="trans_container">
 
-![Logo](/logo/royaleapi-sq-logotype-b.png)
+![Logo](/logo/vertical/royaleapi-logotype.png)
 
 </div>
 
-- [royaleapi-sq-logotype-b.png](/logo/royaleapi-sq-logotype-b.png?d7fe503b884e7833)
+- [royaleapi-logotype.png](/logo/vertical/royaleapi-logotype.png)
+- [royaleapi-logotype.svg](/logo/vertical/royaleapi-logotype.svg)
+
+### White Text
+
+<div class="trans_container">
+
+![Logo](/logo/vertical/royaleapi-logotype-white.png)
+
+</div>
+
+- [royaleapi-logotype-white.png](/logo/vertical/royaleapi-logotype-white.png)
+- [royaleapi-logotype-white.svg](/logo/vertical/royaleapi-logotype-white.svg)
+
+### White Text Outline
+
+<div class="trans_container">
+
+![Logo](/logo/vertical/royaleapi-logotype-white-k.png)
+
+</div>
+
+- [royaleapi-logotype-white-k.png](/logo/vertical/royaleapi-logotype-white-k.png)
+- [royaleapi-logotype-white-k.svg](/logo/vertical/royaleapi-logotype-white-k.svg)
+

@@ -119,6 +119,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/examples/season',
+                    '/examples/deck_spotlight',
                 ]
             },
             {

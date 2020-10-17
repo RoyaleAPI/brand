@@ -2,11 +2,42 @@
 
 You can find more of these on [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI)
 
+
+## X-Bow 3.0 Cycle with Electro Spirit (2020-10-17)
+
+[Twitter]()
+
+![](/example/deck-spotlight/xbow-30-espirit.jpg)
+
+
+## Wall Breakers Miner 2.9 Cycle (2020-10-02)
+
+[Twitter](https://twitter.com/RoyaleAPI/status/1312015424918155266)
+
+![](/example/deck-spotlight/wb-miner-2.9-musk.png)
+
+
+## LavaLoon Miner 4.1 (2020-09-22)
+
+[Twitter](https://twitter.com/RoyaleAPI/status/1308392041278103554)
+
+![](/example/deck-spotlight/lavaloon-miner-41-crl.jpg)
+
+
+## Zappies Graveyard 3.4 (2020-09-13)
+
+[Twitter](https://twitter.com/RoyaleAPI/status/1305129246784811008)
+
+![](/example/deck-spotlight/gy-zappies-34.jpg)
+
+
+
 ## Ram Rider Bridge Spam (2020-08-27)
 
 [Twitter](https://twitter.com/RoyaleAPI/status/1298968662750031872)
 
 ![Deck Spotlight: Ram Rider Bridge Spam](/example/deck-spotlight/ram-spam-34-02.png)
+
 
 ## Mortar Bait 3.0 (2020-08-17)
 

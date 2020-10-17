@@ -5,7 +5,7 @@ You can find more of these on [Twitter @RoyaleAPI](https://twitter.com/RoyaleAPI
 
 ## X-Bow 3.0 Cycle with Electro Spirit (2020-10-17)
 
-[Twitter]()
+[Twitter](https://twitter.com/RoyaleAPI/status/1317450805499236358)
 
 ![](/example/deck-spotlight/xbow-30-espirit.jpg)
 

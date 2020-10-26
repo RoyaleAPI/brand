@@ -22,7 +22,6 @@ module.exports = [
             },
             {
                 text: 'Twitter',
-                link: 'https://royaleapi.com',
                 items: [
                     {
                         text: '@RoyaleAPI',

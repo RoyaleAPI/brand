@@ -14,15 +14,28 @@
 - [royaleapi-logo-x.ai](/logo/royaleapi-logo-x.ai?ab4997f21fd18cbd)
 
 
-## Mark with Type: Horizontal
+## Mark with Type: Horizontal - Dark Background
 
 <div class="trans_container">
 
-![Logo](/logo/royaleapi-bg-dark-type.png)
+![Logo](/logo/royaleapi-bg-dark.png)
 
 </div>
 
-- [royaleapi-bg-dark-type.png](/logo/royaleapi-bg-dark-type.png?03432b70b1c853b1)
+- [royaleapi-bg-dark.png](/logo/royaleapi-bg-dark.png)
+- [royaleapi-bg-dark.svg](/logo/royaleapi-bg-dark.svg)
+
+
+## Mark with Type: Horizontal - Light Background
+
+<div class="trans_container">
+
+![Logo](/logo/royaleapi-bg-light.png)
+
+</div>
+
+- [royaleapi-bg-light.png](/logo/royaleapi-bg-light.png)
+- [royaleapi-bg-light.svg](/logo/royaleapi-bg-light.svg)
 
 ## Mark with Type: Vertical
 

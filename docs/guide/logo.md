@@ -72,3 +72,44 @@
 - [royaleapi-logotype-white-k.png](/logo/vertical/royaleapi-logotype-white-k.png)
 - [royaleapi-logotype-white-k.svg](/logo/vertical/royaleapi-logotype-white-k.svg)
 
+## Black and White
+
+The black and white versions of our logo should only be used when reproducing in color is not possible. If you are designing for screens, you should use the RGB versions. Our black and white logos should not be used as a choice to fit your stylistic decisions.
+
+### Black and White
+
+<div class="trans_container">
+
+![Logo](/logo/bw/royaleapi-logo-bw@4x.png)
+
+</div>
+
+- [royaleapi-logo-bw@4x.png](/logo/vertical/royaleapi-logo-bw@4x.png)
+- [royaleapi-logo-bw.svg](/logo/vertical/royaleapi-logo-bw.svg)
+
+### Black 
+
+This is designed to be used in very light backgrounds only. If you are unsure, use the Black and White version.
+
+
+<div class="trans_container">
+
+![Logo](/logo/bw/royaleapi-logo-b@4x.png)
+
+</div>
+
+- [royaleapi-logo-b@4x.png](/logo/vertical/royaleapi-logo-b@4x.png)
+- [royaleapi-logo-b.svg](/logo/vertical/royaleapi-logo-b.svg)
+
+### White 
+
+This is designed to be used in very dark backgrounds only. If you are unsure, use the Black and White version.
+
+<div class="trans_container">
+
+![Logo](/logo/bw/royaleapi-logo-w@4x.png)
+
+</div>
+
+- [royaleapi-logo-w@4x.png](/logo/vertical/royaleapi-logo-w@4x.png)
+- [royaleapi-logo-w.svg](/logo/vertical/royaleapi-logo-w.svg)

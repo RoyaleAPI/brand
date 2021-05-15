@@ -19,7 +19,9 @@
     "@vuepress/plugin-medium-zoom": "^1.7.1",
     "grunt-cache-bust": "^1.7.0",
     "vuepress": "^1.7.1",
-    "vuepress-plugin-container": "^2.1.5"
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-plugin-seo": "^0.1.4"
   },
   "dependencies": {
     "vuepress-plugin-sitemap": "^2.3.1"

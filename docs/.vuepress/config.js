@@ -1,5 +1,21 @@
 const {description} = require('../../package')
 
+const autometa_options = {
+    site: {
+        name: 'RoyaleAPI Brand',
+        twitter: 'RoyaleAPI',
+    },
+    author: {
+        name: 'RoyaleAPI Brand',
+        twitter: 'RoyaleAPI',
+    },
+    canonical_base: 'https://brand.royaleapi.com',
+};
+
+const seo_options = {
+
+};
+
 module.exports = {
     /**
      * Ref：https://v1.vuepress.vuejs.org/config/#title
@@ -156,5 +172,7 @@ module.exports = {
                 hostname: 'https://brand.royaleapi.com'
             },
         ],
+        ['autometa', autometa_options],
+        ['seo', seo_options],
     ]
 }

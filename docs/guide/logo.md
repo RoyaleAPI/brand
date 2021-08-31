@@ -24,6 +24,7 @@
 
 - [royaleapi-bg-dark.png](/logo/royaleapi-bg-dark.png)
 - [royaleapi-bg-dark.svg](/logo/royaleapi-bg-dark.svg)
+- [royaleapi-bg-dark.ai](/logo/royaleapi-bg-dark.ai)
 
 
 ## Mark with Type: Horizontal - Light Background
@@ -36,6 +37,7 @@
 
 - [royaleapi-bg-light.png](/logo/royaleapi-bg-light.png)
 - [royaleapi-bg-light.svg](/logo/royaleapi-bg-light.svg)
+- [royaleapi-bg-light.ai](/logo/royaleapi-bg-light.ai)
 
 ## Mark with Type: Vertical
 

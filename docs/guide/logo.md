@@ -26,6 +26,18 @@
 - [royaleapi-bg-dark.svg](/logo/royaleapi-bg-dark.svg)
 - [royaleapi-bg-dark.ai](/logo/royaleapi-bg-dark.ai)
 
+## Mark with Type: Horizontal - Dark Background with Text Outline
+
+<div class="trans_container">
+
+![Logo](/logo/royaleapi-bg-dark-textframe.png)
+
+</div>
+
+- [royaleapi-bg-dark-textframe.png](/logo/royaleapi-bg-dark-textframe.png)
+- [royaleapi-bg-dark-textframe.svg](/logo/royaleapi-bg-dark-textframe.svg)
+- [royaleapi-bg-dark-textframe.ai](/logo/royaleapi-bg-dark-textframe.ai)
+
 
 ## Mark with Type: Horizontal - Light Background
 

@@ -45,7 +45,7 @@ blockquote {
   background-color: rgba(0, 0, 0, 0.02);
   border-color: #2b73ff;
   border-left-width: 0.4rem;
-  color: var(--c-text);
+  color: var(--c-text) !important;
   font-size: 1.5rem;
   padding: 1rem 1.5rem;
 }

@@ -1,11 +1,11 @@
-module.exports = [
+export const navbar  = [
     {
         text: 'Links',
-        items: [
+        children: [
             {
                 text: 'RoyaleAPI',
                 link: 'https://royaleapi.com',
-                items: [
+                children: [
                     {
                         text: 'Site',
                         link: 'https://royaleapi.com',
@@ -22,7 +22,7 @@ module.exports = [
             },
             {
                 text: 'Twitter',
-                items: [
+                children: [
                     {
                         text: '@RoyaleAPI',
                         link: 'https://twitter.com/RoyaleAPI',
@@ -43,7 +43,7 @@ module.exports = [
             },
             {
                 text: 'Discord',
-                items: [
+                children: [
                     {
                         text: 'RoyaleAPI',
                         link: 'https://discord.royalaeapi.com',
@@ -60,7 +60,7 @@ module.exports = [
             },
             {
                 text: 'Social',
-                items: [
+                children: [
                     {
                         text: 'Facebook',
                         link: 'https://facebook.com/RoyaleAPI',

@@ -1,0 +1,55 @@
+:root {
+  // brand colors
+  --c-brand: #2b73ff;
+  --c-brand-light: #2b73ff;
+  --font-family: 'Source Sans Pro', sans-serif;
+  --c-tip: var(--c-brand);
+}
+
+html.dark {
+  --c-bg: #22272e;
+  --c-brand: #518fff;
+  --c-brand-light: #518fff;
+  --c-tip: var(--c-brand);
+
+  blockquote {
+    background-color: rgba(255, 255, 255, 0.02);
+
+  }
+}
+
+.home .hero img {
+  max-width: 450px !important;
+}
+
+.trans_container {
+  border: 1px solid rgba(0, 0, 0, .1);
+  background-color: rgba(0, 0, 0, .05);
+  background-image: url(/img/bg-trans-tile.png);
+  background-repeat: repeat;
+  text-align: center;
+}
+
+.color_chip {
+  width: 50px !important;
+  height: 50px !important;
+  border-radius: 5rem;
+  margin-top: 1rem;
+}
+
+.color_value {
+  word-spacing: 4px;
+}
+
+blockquote {
+  background-color: rgba(0, 0, 0, 0.02);
+  border-color: #2b73ff;
+  border-left-width: 0.4rem;
+  color: var(--c-text);
+  font-size: 1.5rem;
+  padding: 1rem 1.5rem;
+}
+
+blockquote p {
+  line-height: 130%;
+}

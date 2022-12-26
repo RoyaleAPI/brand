@@ -1,4 +1,4 @@
-export const navbar  = [
+export const en_navbar = [
     {
         text: 'Links',
         children: [
@@ -15,8 +15,16 @@ export const navbar  = [
                         link: 'https://brand.royaleapi.com',
                     },
                     {
-                        text: 'Help + Support',
+                        text: 'Help',
                         link: 'https://help.royaleapi.com',
+                    },
+                    {
+                        text: 'Support',
+                        link: 'https://support.royaleapi.com',
+                    },
+                    {
+                        text: 'Forum',
+                        link: 'https://discuss.royaleapi.com',
                     },
                 ]
             },
@@ -70,6 +78,10 @@ export const navbar  = [
                         link: 'https://instagram.com/RoyaleAPI_Official',
                     },
                     {
+                        text: 'YouTube',
+                        link: 'https://youtube.com/RoyaleAPI',
+                    },
+                    {
                         text: 'Reddit',
                         link: 'https://reddit.com/r/RoyaleAPI',
                     },
@@ -77,12 +89,9 @@ export const navbar  = [
                         text: 'Github',
                         link: 'https://github.com/RoyaleAPI',
                     },
-                    {
-                        text: 'YouTube',
-                        link: 'https://youtube.com/RoyaleAPI',
-                    },
                 ]
             }
         ]
+
     },
 ]

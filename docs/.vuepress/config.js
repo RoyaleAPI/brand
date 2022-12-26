@@ -2,7 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { navbar } from './conf/navbar'
+import { en_navbar } from './conf/navbar'
 
 const autometa_options = {
     site: {
@@ -27,7 +27,7 @@ export default defineUserConfig({
     theme: defaultTheme({
         editLinks: false,
         logo: '/img/royaleapi-logo.png',
-        navbar: navbar,
+        navbar: en_navbar,
         sidebar: [
             {
                 text: 'Introduction',

@@ -67,7 +67,8 @@ export default defineUserConfig({
             // options
         }),
         googleAnalyticsPlugin({
-            id: 'G-48L7KQ2BZD',
+            // id: 'G-48L7KQ2BZD',
+            id: 'G-R69G39W2VS',
         }),
     ],
 

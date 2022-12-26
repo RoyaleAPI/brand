@@ -28,6 +28,7 @@ export default defineUserConfig({
         editLinks: false,
         logo: '/img/royaleapi-logo.png',
         navbar: en_navbar,
+        contributorsText: 'Authors',
         sidebar: [
             {
                 text: 'Introduction',

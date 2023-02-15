@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"Elements","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1594131904000,"contributors":[{"name":"smlbiobot","email":"smlbiobot@gmail.com","commits":1}]},"filePathRelative":"guide/README.md"}');export{e as data};

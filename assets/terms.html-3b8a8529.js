@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5fb565c1","path":"/legal/terms.html","title":"Terms","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1586427151000,"contributors":[{"name":"smlbiobot","email":"smlbiobot@gmail.com","commits":1}]},"filePathRelative":"legal/terms.md"}');export{t as data};

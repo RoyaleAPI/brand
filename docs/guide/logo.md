@@ -127,3 +127,11 @@ This is designed to be used in very dark backgrounds only. If you are unsure, us
 
 - [royaleapi-logo-w@4x.png](/logo/bw/royaleapi-logo-w@4x.png)
 - [royaleapi-logo-w.svg](/logo/bw/royaleapi-logo-w.svg)
+
+## Avatar for Social Media
+
+Use this version with a white background and padding for social media.
+
+![Logo](/logo/royaleapi-avatar.png)
+
+- [royaleapi-avatar.png](/logo/royaleapi-avatar.png)
